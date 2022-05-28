@@ -10,7 +10,7 @@ Also see my [dotfiles repo](https://github.com/NamorNiradnug/.dotfile) if you wa
     - [ ] Better connections widget
     - [ ] Bluetooth widget
     - [ ] Dynamically loaded widgets
-- [ ] Screenlocker/-saver for wayland (sceenlocker a with dynamic background)
+- [ ] Screenlocker/-saver for wayland (sceenlocker with a dynamic background)
 
 ----------------------------------
 <img style="float: right" src="https://github-readme-stats.vercel.app/api/top-langs?username=NamorNiradnug&show_icons=true&layout=compact&count_private=true&theme=github_dark">  <img style="float: right" src="https://github-readme-stats.vercel.app/api?username=NamorNiradnug&show_icons=true&count_private=true&theme=github_dark"> 
