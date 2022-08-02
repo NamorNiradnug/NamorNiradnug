@@ -5,11 +5,11 @@ Also see my [dotfiles repo](https://github.com/NamorNiradnug/.dotfile) if you wa
 
 #### My programming TODO list for the year 2022:
 
-- [ ] 🚧 Notification center for wf-shell
+- [½] Notification center for wf-shell ([PR](https://github.com/WayfireWM/wf-shell/pull/132) is open)
 - [ ] Other widgets I would like to use in wf-shell:
     - [ ] Better connections widget
     - [ ] Bluetooth widget
-    - [ ] Dynamically loaded widgets
+    - [ ] Dynamically loaded widgets (that's difficult to implement)
 - [ ] Screenlocker/-saver for wayland (sceenlocker with a dynamic background)
 
 ----------------------------------
