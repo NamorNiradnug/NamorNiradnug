@@ -5,7 +5,7 @@ Also see my [dotfiles repo](https://github.com/NamorNiradnug/.dotfile) if you wa
 
 #### My programming TODO list for the year 2022:
 
-- [ ] (½) Notification center for wf-shell ([PR](https://github.com/WayfireWM/wf-shell/pull/132) is open)
+- [x] Notification center for wf-shell ([PR](https://github.com/WayfireWM/wf-shell/pull/132) is merged!)
 - [ ] Other widgets I would like to use in wf-shell:
     - [ ] Better connections widget
     - [ ] Bluetooth widget
