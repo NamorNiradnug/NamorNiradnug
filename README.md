@@ -5,7 +5,11 @@ Also see my [dotfiles repo](https://github.com/NamorNiradnug/.dotfiles) if you w
 
 #### My programming TODO list for the year 2022:
 
-- [x] Notification center for wf-shell ([PR](https://github.com/WayfireWM/wf-shell/pull/132) is merged!)
+- [x] Notification center for [wf-shell](https://github.com/WayfireWM/wf-shell) ([PR](https://github.com/WayfireWM/wf-shell/pull/132) is merged!)
+- [ ] Rewrite [wcm](https://github.com/WayfireWM/wcm) using GTKmm instead GTK
+
+#### Other TODOs
+
 - [ ] Other widgets I would like to use in wf-shell:
     - [ ] Better connections widget
     - [ ] Bluetooth widget
