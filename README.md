@@ -3,9 +3,8 @@
 I don't code much and I am not a pro (at least yet). My favorite programming language is [Nim](https://github.com/nim-lang/Nim).
 Also see my [dotfiles repo](https://github.com/NamorNiradnug/.dotfiles) if you want to know what stuff I use for programming (I use ~~Garuda~~ arch btw).
 
-#### My programming TODO list for the year 2022:
+#### Things I want to do more than thing in the list below:
 
-- [x] Notification center for [wf-shell](https://github.com/WayfireWM/wf-shell) ([PR](https://github.com/WayfireWM/wf-shell/pull/132) is merged!)
 - [ ] Rewrite [wcm](https://github.com/WayfireWM/wcm) using GTKmm instead GTK
 
 #### Other TODOs
