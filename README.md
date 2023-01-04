@@ -5,7 +5,7 @@ Also see my [dotfiles repo](https://github.com/NamorNiradnug/.dotfiles) if you w
 
 #### Things I want to do more than thing in the list below:
 
-- [ ] Rewrite [wcm](https://github.com/WayfireWM/wcm) using GTKmm instead GTK
+- [ ] Rewrite [wcm](https://github.com/WayfireWM/wcm) using GTKmm instead GTK ([WIP](https://github.com/NamorNiradnug/wcm/tree/use-gtkmm))
 
 #### Other TODOs
 
