@@ -16,4 +16,6 @@ Also see my [dotfiles repo](https://github.com/NamorNiradnug/.dotfiles) if you w
 - [ ] Screenlocker/-saver for wayland (sceenlocker with a dynamic background)
 
 ----------------------------------
-<img style="float: right" src="https://github-readme-stats.vercel.app/api/top-langs?username=NamorNiradnug&show_icons=true&layout=compact&count_private=true&theme=github_dark">  <img style="float: right" src="https://github-readme-stats.vercel.app/api?username=NamorNiradnug&show_icons=true&count_private=true&theme=github_dark"> 
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=NamorNiradnug&show_icons=true&layout=compact&count_private=true&theme=github_dark)
+
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=NamorNiradnug&show_icons=true&count_private=true&theme=github_dark)
