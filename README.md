@@ -3,11 +3,7 @@
 I don't code much and I am not a pro (at least yet). My favorite programming language is [Nim](https://github.com/nim-lang/Nim).
 Also see my [dotfiles repo](https://github.com/NamorNiradnug/.dotfiles) if you want to know what stuff I use for programming (I use ~~Garuda~~ arch btw).
 
-#### Things I want to do more than thing in the list below:
-
-- [x] Rewrite [wcm](https://github.com/WayfireWM/wcm) using GTKmm instead GTK ([WIP](https://github.com/NamorNiradnug/wcm/tree/use-gtkmm), [PR is merged](https://github.com/WayfireWM/wcm/pull/43))
-
-#### Other TODOs
+#### Things I want to do (preferrably this year):
 
 - [ ] Other widgets I would like to use in wf-shell:
     - [ ] Better connections widget
