@@ -5,10 +5,10 @@ Also see my [dotfiles repo](https://github.com/NamorNiradnug/.dotfiles) if you w
 
 #### Things I want to do (preferrably this year):
 
-- [+] Other widgets I would like to use in wf-shell (I've cheated, I implemented `StatusNotifierItem` (aka system tray)):
-    - [+] Better connections widget (`nm-applet`)
-    - [+] Bluetooth widget (`blueman`)
-    - [+] Dynamically loaded widgets (that's difficult to implement)
+- [x] Other widgets I would like to use in wf-shell (I've cheated, I implemented `StatusNotifierItem` (aka system tray)):
+    - [x] Better connections widget (`nm-applet`)
+    - [x] Bluetooth widget (`blueman`)
+    - [x] Dynamically loaded widgets (that's difficult to implement)
 - [ ] Screenlocker/-saver for wayland (sceenlocker with a dynamic background)
 
 ----------------------------------
